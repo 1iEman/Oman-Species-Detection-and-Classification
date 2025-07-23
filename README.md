@@ -25,3 +25,6 @@ Use attribute and relation networks to measure similarity between support and qu
 3. Result: 
 The MegaDetector demonstrated robust performance, efficiently filtering irrelevant images, while the Prototypical Network achieved the highest classification test accuracy at 92.2%, followed by the Siamese Network at 90.5% and the Relation Network at 89.8%.
 ![Poster](images/Poster.png)
+
+4. Simple Model Interface using Streamlit:
+![Interface](images/Simple_Interface.png)
